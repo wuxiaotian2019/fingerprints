@@ -1,0 +1,12 @@
+*.o
+*~
+*.swp
+*.swo
+*.tlbin
+*.log
+*.lst2
+*.axf
+*.so
+*.a
+*.d
+*.setup
