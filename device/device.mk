@@ -5,6 +5,7 @@ PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service \
     android.hardware.biometrics.fingerprint@2.1-service.rc \
     com.fingerprints.extension@1.0 \
+	fingerprint.fpc.default \
 
 
 # -----------------------------
